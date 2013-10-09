@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+/* Main Navigation */
+
+li {
+  background: #ffd500;
+  display: inline;
+  list-style: none;
+  margin: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+a {
+  color: green;
+  font-size: 24px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li:hover {
+  background: blue;
+} 
+=======
+li{
+  
+  background: orange;
+  
+  display: inline;
+  
+  list-style: none;  
+  
+  padding: 10px 20px;
+  
+  width: 100px;
+  
+  margin: 10px;
+ 
+  text-align: center;
+  
+  height: 200px;
+
+}
+
+a {
+  
+  color: white;
+  
+  font-size: 24px;
+  
+  text-transform: uppercase;
+  
+  text-decoration: none;
+  
+}
+
+li:hover {
+  
+  background: black;
+  
+}
+>>>>>>> basic website
